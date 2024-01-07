@@ -1,4 +1,4 @@
-### Hi there 👋, I'm  Ouzepe Jean-louis 
+### Hi there 👋, I'm  Ouzepe
 
 I'm Ouzepe from France, i'm learning everyday to be the best version of myself. I really enjoy learning languages and frameworks like React and React Native.
 
